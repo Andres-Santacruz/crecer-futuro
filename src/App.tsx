@@ -61,8 +61,8 @@ export default function LandingPage() {
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">CRECER CON FUTURO</span>
               <img
-                className="h-8 w-auto"
-                src="/placeholder.svg?height=32&width=32"
+                className="h-14 w-auto"
+                src="./logo-slogan-transp.png"
                 alt="Logo de CRECER CON FUTURO"
               />
             </a>
@@ -363,7 +363,7 @@ export default function LandingPage() {
               <div className="relative mt-16 h-80 lg:mt-8">
                 <img
                   className="absolute top-0 left-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-                  src="/placeholder.svg?height=1080&width=1920"
+                  src="/unete.jpg"
                   alt="App screenshot"
                   width={1824}
                   height={1080}
